@@ -1,0 +1,2 @@
+# 1. Github Actions
+- Github actions is Githubs built in CI (Continuous integration) tool. Everytime we push code github spins up a virtual machine and runs whatever test, builds, or deploys we specify. It will check the .github/workflows folder so thats where we put them
